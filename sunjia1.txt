@@ -1,4 +1,6 @@
-﻿1111
+﻿#define dududududududududuudud 1
+
+1111
 new define 
 sunmeng add frist2
 
@@ -12,5 +14,11 @@ fuck this shit
 16：55ADD ONE
 sunmengadd{
 fuck this shit
+}
 
+
+dududududududududududududududu()
+{
+	dududududududududududududududu;
+	dududududududududududududududu;
 }
