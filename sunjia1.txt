@@ -1,8 +1,16 @@
 ﻿1111
 new define 
 sunmeng add frist2
+
 16：55ADD ONE
 dupengchengadd 111
 {
 fuck this shit 
+}
+
+#define sunmeng 1
+16：55ADD ONE
+sunmengadd{
+fuck this shit
+
 }
