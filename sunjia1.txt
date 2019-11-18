@@ -1,5 +1,5 @@
 ﻿#define dududududududududuudud 1
-
+﻿#define susususususuususususu 2
 1111
 new define 
 sunmeng add frist2
@@ -17,8 +17,15 @@ fuck this shit
 }
 
 
+
 dududududududududududududududu()
 {
 	dududududududududududududududu;
 	dududududududududududududududu;
+}
+
+susususususususuusususususu()
+{
+    sunsusususususu;
+    susususususuusus;
 }
